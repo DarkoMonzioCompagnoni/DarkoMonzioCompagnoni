@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome 👋 my name is Darko, I am a Data Analyst with marketing experience
 
-<!--
-**DarkoMonzioCompagnoni/DarkoMonzioCompagnoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Tableau dashboard for Customer Analysis
+- 🌱 I’m currently learning Data Analysis on Python
+- 🤔 I’m looking for help with new job opportunities
+- 💬 Ask me about data analysis for marketing
+- 📫 How to reach me: darko.monzio.com@gmail.com
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use for Data Analysis
+- Python
+- Google Sheets
+- SQL
+- Looker Studio (ex. Google Data Studio)
+- Tableau
