@@ -1,4 +1,4 @@
-### Welcome 👋 my name is Darko, I am a Data Analyst with marketing experience
+### Welcome 👋 my name is Darko, I am a Data Analyst with experience in marketing
 
 - 🔭 I’m currently working on a Tableau dashboard for Customer Analysis
 - 🌱 I’m currently learning Data Analysis on Python
