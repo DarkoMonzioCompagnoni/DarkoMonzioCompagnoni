@@ -1,11 +1,14 @@
-### Welcome 👋 my name is Darko, I am a Data Analyst with experience in marketing
+## Welcome 👋 my name is Darko, I am a Data Analyst with experience in marketing
 
-- 🔭 I’m currently working on a Tableau dashboard for Customer Analysis
+- 🔭 I’m currently working on a Python
 - 🌱 I’m currently learning Data Analysis on Python
 - 🤔 I’m looking for help with new job opportunities
 - 💬 Ask me about data analysis for marketing
 - 📫 How to reach me: darko.monzio.com@gmail.com
 - 😄 Pronouns: He/Him
+
+### Scroll to the "Pinned" section to view my projects 👇🏼
+
 
 ## Tools I use for Data Analysis
 - Python
