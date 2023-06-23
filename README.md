@@ -1,6 +1,6 @@
 ## Welcome 👋 my name is Darko, I am a Data Analyst with experience in marketing
 
-- 🔭 I’m currently working on a Python
+- 🔭 I’m currently working on data analysis projects with Python
 - 🌱 I’m currently learning Data Analysis on Python
 - 🤔 I’m looking for help with new job opportunities
 - 💬 Ask me about data analysis for marketing
