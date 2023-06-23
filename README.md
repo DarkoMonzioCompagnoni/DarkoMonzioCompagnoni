@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with new job opportunities
 - 💬 Ask me about data analysis for marketing
 - 📫 How to reach me: darko.monzio.com@gmail.com
-- 😄 Pronouns: He/Him
 
 ### Scroll to the "Pinned" section to view my projects 👇🏼
 
