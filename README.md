@@ -1,9 +1,9 @@
-## Welcome 👋 my name is Darko, I am a Data Analyst with experience in marketing
+## Welcome 👋 my name is Darko, I am an Analytics Engineer Trainee
 
-- 🔭 I’m currently working on data analysis projects with Python
-- 🌱 I’m currently learning Data Analysis on Python
-- 🤔 I’m looking for new job opportunities
-- 💬 Ask me about data analysis for marketing
+- 🔭 I’m currently completing my traineeship in Analytics Engineering at Nimbus Academy.
+- 🌱 I’m learning Snowflake, SQL, Python, Git, dbt. 
+- 🤔 I’m looking for networking with other Data Professionals
+- 💬 Ask me about data analysis. 
 - 📫 How to reach me: darko.monzio.com@gmail.com
 
 ### Scroll to the "Pinned" section to view my projects 👇🏼
