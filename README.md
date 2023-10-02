@@ -9,8 +9,8 @@
 ### Scroll to the "Pinned" section to view my projects 👇🏼
 
 ## Read my blog posts:
-- [Understanding Data Normalization]([Understanding data normalization: the Burger Bliss restaurant](https://nimbusintelligence.com/2023/09/understanding-data-normalization/))
-- [Data Engineer vs Analytics Engineer: What’s the difference?]([Data Engineer vs Analytics Engineer: What’s the difference?](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/))
+- [Understanding Data Normalization](https://nimbusintelligence.com/2023/09/understanding-data-normalization/))
+- [Data Engineer vs Analytics Engineer: What’s the difference?](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - [Can a Marketer become an Analytics Engineer?](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
 
 ## Tools I use for Data Analysis
