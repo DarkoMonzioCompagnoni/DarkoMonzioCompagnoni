@@ -8,6 +8,10 @@
 
 ### Scroll to the "Pinned" section to view my projects 👇🏼
 
+## Read my blog posts:
+- [Understanding Data Normalization](Understanding data normalization: the Burger Bliss restaurant)
+- [Data Engineer vs Analytics Engineer: What’s the difference?](Data Engineer vs Analytics Engineer: What’s the difference?)
+- [Can a Marketer become an Analytics Engineer?](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
 
 ## Tools I use for Data Analysis
 - Python
