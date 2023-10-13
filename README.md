@@ -9,6 +9,8 @@
 ### Scroll to the "Pinned" section to view my projects 👇🏼
 
 ## Read my blog posts:
+- [Visualizing API Data on Streamlit: Football Fan Tokens & Team Performance](https://nimbusintelligence.com/2023/10/visualizing-api-data-on-streamlit/)
+- [Prevent your data lake from becoming a data swamp](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
 - [Understanding Data Normalization](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
 - [Data Engineer vs Analytics Engineer: What’s the difference?](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - [Can a Marketer become an Analytics Engineer?](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
