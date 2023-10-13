@@ -23,6 +23,7 @@
 - Tableau
 
 ## Certificates
+- [Data Analyst Professional](https://www.datacamp.com/certificate/DA0022198866681)
 - [Associate Data Analyst](https://www.datacamp.com/certificate/DAA0018094801220) (Apr 2023, DataCamp)
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
 - [Digital Marketing](https://certificates.growthtribe.io/en/verify/87676172970004?ref) (Oct 2022, Growth Tribe)
@@ -30,3 +31,4 @@
 - [Sprinklr Product Analyst Pro](https://university.sprinklr.com/certificate?id=a152072c-d1af-49a2-8663-c0843c19bbd4) (Nov 2021, Sprinklr University)
 - [Social Media Data Analytics](https://www.coursera.org/account/accomplishments/certificate/XJMSHEZ3AYVX) (Jun 2021, Coursera - University of Washington)
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/FqJik5TITyCjbgkcArEEYg) (Aug 2020, Google Digital Academy)
+
